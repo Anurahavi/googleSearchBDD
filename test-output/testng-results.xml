@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7946" started-at="2021-03-10T22:53:27Z" finished-at="2021-03-10T22:53:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7946" started-at="2021-03-10T22:53:27Z" finished-at="2021-03-10T22:53:35Z">
+      <class name="com.testcases.Googlehome">
+        <test-method status="PASS" signature="getUrl()[pri:0, instance:com.testcases.Googlehome@4b9e13df]" name="getUrl" is-config="true" duration-ms="4143" started-at="2021-03-10T14:53:27Z" finished-at="2021-03-10T14:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method status="PASS" signature="searchFeature()[pri:0, instance:com.testcases.Googlehome@4b9e13df]" name="searchFeature" duration-ms="3044" started-at="2021-03-10T14:53:32Z" finished-at="2021-03-10T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFeature -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.Googlehome@4b9e13df]" name="tearDown" is-config="true" duration-ms="749" started-at="2021-03-10T14:53:35Z" finished-at="2021-03-10T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.Googlehome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
